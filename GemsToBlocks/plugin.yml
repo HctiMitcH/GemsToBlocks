@@ -1,0 +1,13 @@
+name: GemsToBlocks
+main: io.github.HctiMitcH.GemsToBlocks
+version: 1.1
+commands:
+   block:
+      description: Change Single Gems to Their Block Equal.
+      usage: /block
+      permission: gemstoblocks.block
+      permission-message: Sorry, You don't have <permission>
+permissions:
+   gemstoblocks.block:
+      description: Changes Gem Items to Their Blocks.
+      default: op

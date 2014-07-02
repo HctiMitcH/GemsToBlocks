@@ -1,0 +1,9 @@
+#GemsToBlocks Config File
+#Precautions coded to prevent DUPING!!!
+#Make Sure to Delete Config on Version Change
+#Available Gems are:
+#DIAMOND, EMERALD, IRON, GOLD, COAL, REDSTONE
+config:
+   items:
+   - EMERALD
+   - DIAMOND
